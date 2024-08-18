@@ -5,3 +5,5 @@ function sum(number1, number2) {
 const total = sum(10, "10");
 
 console.log("total", total);
+
+
